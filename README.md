@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RefCheck — AI 生成文献检测与规范系统
 
 > 粘贴参考文献，一键检测真伪，自动输出规范格式。
@@ -220,7 +219,3 @@ A：`main.py` 已内置 GBK→UTF-8 转换，如仍有问题可在终端执行 `
 | v0.4 | 新增 MLA / Chicago / IEEE 格式；Streamlit Web 界面 v2.0；修复 ACS 格式解析 |
 | v0.5 | 解析器重构：新增 Vancouver、Nature/Science、Harvard、BibTeX 格式；引入格式自动识别引擎；格式解析准确率 100% (17/17) |
 | v0.6 | 新增 .txt 文件上传功能；输入区改为 Tab 布局（粘贴 / 上传）；自动识别 UTF-8 / GBK / GB18030 编码；文件预览、大小限制、一键移除 |
-=======
-# ref_check
-针对AI生成文献进行检测以及输出格式规范矫正
->>>>>>> origin/main
